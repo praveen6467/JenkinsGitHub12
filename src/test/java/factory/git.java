@@ -15,7 +15,7 @@ public class git {
 
 		System.out.println("pullimg code");
 
-		System.out.println("Jenkins NewProject");
+		System.out.println("Jenkins NewProject");;
 		
 
 	}
