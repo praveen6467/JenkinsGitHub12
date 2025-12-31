@@ -15,7 +15,7 @@ public class git {
 
 		System.out.println("pullimg code");
 
-		System.out.println("Parallel execution");;;
+		System.out.println("Jenkins NewProject");
 		
 
 	}
